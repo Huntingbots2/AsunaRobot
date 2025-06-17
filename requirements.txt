@@ -35,7 +35,7 @@ pretty-errors
 pydictionary==2.0.1
 pyfiglet
 pykeyboard==0.1.5
-pymongo==4.9.2
+pymongo==4.13.2
 pynewtonmath==1.0.1
 pyrate-limiter==2.10.0
 pyshorteners
