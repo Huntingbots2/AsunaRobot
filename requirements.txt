@@ -11,7 +11,7 @@ cachetools==4.2.2
 cloudscraper==1.2.71
 countryinfo==0.1.2
 currencyconverter==0.17.26
-dateparser==1.2.0
+dateparser==1.2.2
 emoji==2.12.1
 emoji-country-flag
 faker
