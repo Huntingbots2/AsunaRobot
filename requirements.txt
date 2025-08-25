@@ -3,7 +3,7 @@ aiohttp==3.9.5
 alphabet_detector
 apscheduler==3.6.3
 asyncio==3.4.3
-beautifulsoup4==4.12.3
+beautifulsoup4==4.13.5
 bing_image_downloader==1.1.2
 bleach==6.1.0
 bs4==0.0.2
